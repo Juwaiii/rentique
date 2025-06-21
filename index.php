@@ -100,7 +100,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['email']) && !isset($_
     <p>START RENTING NOW!</p>
   </div>
   <div class="hero-images">
-    <img src="./images/model2.jpg" alt="Model 2">
+<img src="images/model1.jpg" alt="model 1">
   </div>
 </section>
 
